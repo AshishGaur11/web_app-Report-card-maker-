@@ -1,0 +1,71 @@
+.half,.shalf
+{
+    flex: 50%;
+}
+input,select,label,h1,button
+{
+    margin: 5px;
+    padding: 2px;
+}
+
+.flex-container {
+    display: flex;
+    background-color: #f1f1f1;
+    
+  }
+
+#updt,#cnl1
+{
+    display: none;
+}
+
+#submit
+{
+    display: inline;
+
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 90%;
+    border: 1px solid #ddd;
+    margin: 10px;
+
+
+  }
+  
+  th, td {
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr{background-color: #ffffff}
+
+  #a1111 {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 70%;
+
+  }
+  
+  .s1111 {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+    margin: 10px;
+
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+  .itr1
+  {
+    padding: 10px;
+    margin-left: 80px;
+  }
+
+  .color
+  {
+    background-color: #ffffff;
+  }
